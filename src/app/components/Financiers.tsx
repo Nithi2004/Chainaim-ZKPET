@@ -129,7 +129,7 @@ const Financiers = () => {
       </Button>
 
       {/* Divider */}
-      <Divider borderColor="black" mb={8} />
+      <Divider borderColor="black" mb={8} mt={8}/>
 
       {/* Risk Model Template Section */}
       <Box mb={8}>
